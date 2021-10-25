@@ -913,6 +913,7 @@
  .footer .copyright {
    border-top: 1px solid rgba(255, 255, 255, .2);
    padding: 20px 15px;
+   background-color: #111;
  }
 
  .footer .copyright p {
@@ -933,4 +934,14 @@ font-family: 'hanimation';
 }
 .arab-main{
 font-family: 'kawkab';
+}
+
+.contact-section a {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
+.copyright a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bolder;
 }
