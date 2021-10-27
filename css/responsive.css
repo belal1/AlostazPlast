@@ -13,15 +13,18 @@
     /* Header Section */
     .header {
         padding: 5px 0;
+        text-align: center;
     }
     .header .navbar-nav {
-        background-color: #fff;
+        border-radius: 25px;
+
+        background-color: rgba(20, 20,20, 0.5);
     }
     .header .navbar #navbarNavDropdown .nav-item .nav-link {
         padding: 10px 15px;
     }
     .header .navbar-light .navbar-toggler {
-        background-color: #fff;
+        background-color: rgba(255, 255, 255, 0.9);
         padding: 0;
         height: 38px;
         width: 45px;
